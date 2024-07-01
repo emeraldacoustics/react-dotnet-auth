@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("react-dotnet-auth.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+06a3953209874f31ff721b9aa0c87268ea8d1e8f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39d49426bd9cf0cda0d49a7b033db3e9a9405df1")]
 [assembly: System.Reflection.AssemblyProductAttribute("react-dotnet-auth.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("react-dotnet-auth.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
