@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "react-dotnet-auth.Server", "react-dotnet-auth.Server\react-dotnet-auth.Server.csproj", "{D0A7F580-D38C-4552-9EED-5657166F1CFA}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "react-dotnet-auth.client", "react-dotnet-auth.client\react-dotnet-auth.client.esproj", "{17E30DFF-0862-4B43-A41B-64D323E5A8AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0A7F580-D38C-4552-9EED-5657166F1CFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0A7F580-D38C-4552-9EED-5657166F1CFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0A7F580-D38C-4552-9EED-5657166F1CFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0A7F580-D38C-4552-9EED-5657166F1CFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17E30DFF-0862-4B43-A41B-64D323E5A8AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17E30DFF-0862-4B43-A41B-64D323E5A8AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17E30DFF-0862-4B43-A41B-64D323E5A8AE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{17E30DFF-0862-4B43-A41B-64D323E5A8AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17E30DFF-0862-4B43-A41B-64D323E5A8AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17E30DFF-0862-4B43-A41B-64D323E5A8AE}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {757665A5-C354-45F2-B5BC-AFBFDF8F3275}
+	EndGlobalSection
+EndGlobal

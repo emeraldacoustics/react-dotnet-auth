@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:5173",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "F:\\GitHub\\react-dotnet-auth\\react-dotnet-auth.Server\\..\\react-dotnet-auth.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
